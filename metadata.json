@@ -1,0 +1,8 @@
+{
+  "name": "EasyEarning - Earn Daily",
+  "description": "A high-fidelity task and ads-based earning platform where users complete simple tasks like watching ads and spinning wheels to earn real rewards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
